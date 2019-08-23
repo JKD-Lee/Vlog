@@ -8,25 +8,35 @@
   </url>
   
   <url>
+    <loc>https://mxr-lee.top/Vlog/released/2/</loc>
+  </url>
+  
+  <url>
+    <loc>https://mxr-lee.top/Vlog/released/3/</loc>
+    <lastmod>2019-08-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mxr-lee.top/Vlog/released/4/</loc>
+    <lastmod>2019-08-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://mxr-lee.top/Vlog/released/</loc>
-    <lastmod>2019-07-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <lastmod>2019-08-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://mxr-lee.top/Vlog/</loc>
-    <lastmod>2019-07-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <lastmod>2019-08-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://mxr-lee.top/Vlog/categories/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://mxr-lee.top/Vlog/tags/</loc>
-    <priority>0</priority>
   </url>
   
 </urlset>
